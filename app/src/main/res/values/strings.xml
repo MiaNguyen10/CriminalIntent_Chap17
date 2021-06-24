@@ -17,6 +17,7 @@
     <string name="delete_crime">Delete</string>
     <string name="no_crimes_add">There are no crimes</string>
     <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="call_suspect_text">Call Suspect</string>
     <string name="crime_report_text">Send Crime Report</string>
     <string name="crime_report">%1$s!
 The crime was discovered on %2$s. %3$s, and %4$s
